@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="394fa329-1090-4469-92de-5306167fbf32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1 - defs/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - defs/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - defs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - defs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - defs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Hanks/.idea/3 - Hanks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Hanks/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Hanks/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Hanks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Hanks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Hanks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/.idea/5 - Topic Modelling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/.ipynb_checkpoints/main-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/confi/d3.v3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/confi/d3.v5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/confi/ldavis.v1.0.0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/confi/ldavis.v1.0.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Topic Modelling/confi/ldavis.v3.0.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6 - False friends/docs/esp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6 - False friends/docs/it.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7 - Frutta con la M/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7 - Frutta con la M/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7 - Frutta con la M/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7 - Frutta con la M/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7 - Frutta con la M/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8 - FCA/.idea/8 - FCA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8 - FCA/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8 - FCA/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8 - FCA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8 - FCA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8 - FCA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8 - FCA/docs/lattice.gv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1 - defs/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1 - defs/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 - Hanks/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3 - Hanks/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 - Topic Modelling/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../5 - Topic Modelling/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 - Topic Modelling/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5 - Topic Modelling/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5 - Topic Modelling/wiki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 - False friends/docs/esp_words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 - False friends/docs/it_words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 - False friends/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 - Frutta con la M/.idea/7 - Frutta con la M.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../7 - Frutta con la M/.idea/7 - Frutta con la M.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 - Frutta con la M/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7 - Frutta con la M/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 - FCA/docs/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../8 - FCA/docs/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 - FCA/docs/lattice.gv.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 - FCA/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../8 - FCA/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Esame_Mazzei/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Esame_Mazzei/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_1/Conceptual Similarity/conceptual_similarity_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_1/Conceptual Similarity/conceptual_similarity_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_1/Wordsense Disambiguation/semcore_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_1/Wordsense Disambiguation/semcore_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_2/framenet_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_2/framenet_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_2/utility.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_2/utility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_3/utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Esame_Radicioni/esercitazione_3/utilities.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2SkXJJOXBYZ3bH6fRnn9idoXLUs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/cogli/Desktop/TLN/Esame_DiCaro/2 - content2form",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="394fa329-1090-4469-92de-5306167fbf32" name="Changes" comment="" />
+      <created>1689691479133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689691479133</updated>
+      <workItem from="1689691480282" duration="4361000" />
+      <workItem from="1689768146437" duration="7000" />
+      <workItem from="1689799165437" duration="596000" />
+      <workItem from="1689801468679" duration="1854000" />
+      <workItem from="1689926759334" duration="517000" />
+      <workItem from="1689927318475" duration="14000" />
+      <workItem from="1689930193037" duration="306000" />
+      <workItem from="1689930789809" duration="679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2___content2form$main.coverage" NAME="main Coverage Results" MODIFIED="1689931374153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

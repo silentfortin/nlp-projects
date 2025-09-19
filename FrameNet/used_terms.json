@@ -1,0 +1,116 @@
+[
+        {
+            "frame_name": {
+                "725": "expansion"
+            },
+            "frame_elements": {
+                "4756": "item",
+                "5106": "degree",
+                "4757": "dimension",
+                "4764": "duration",
+                "16147": "goal",
+                "4758": "group",
+                "4774": "manner",
+                "5107": "path",
+                "4762": "rate",
+                "4765": "time"
+
+            },
+            "lexical_units": {
+                "9101": "contract",
+                "9102": "contraction",
+                "9330": "dilate",
+                "9103": "enlarge",
+                "9331": "enlargement",
+                "9332": "expand",
+                "11177": "expansion",
+                "11175": "grow",
+                "9501": "shrink",
+                "12582": "swell"
+            }
+        },
+                {
+            "frame_name": {
+                "1370": "extradition"
+            },
+            "frame_elements": {
+                "7693": "authorities",
+                "7696": "suspect",
+                "7766": "manner",
+                "9627": "means",
+                "10250": "place",
+                "7706": "purpose",
+                "7767": "depictive",
+                "7707": "explanation"
+            },
+            "lexical_units": {
+                "11784": "extradite",
+                "11785": "extradition"
+            }
+        },
+          {
+            "frame_name": {
+                "2080": "mention"
+            },
+            "frame_elements": {
+                "12891": "communicator",
+                "12895": "medium",
+                "12893": "message",
+                "12930": "specified_content",
+                "12898": "manner",
+                "12899": "means",
+                "15950": "place",
+                "15951": "purpose",
+                "12931": "containing_event",
+                "12892": "addressee"
+
+            },
+            "lexical_units": {
+                "15150": "mention",
+                "17826": "touch (on)"
+            }
+        },
+        {
+            "frame_name": {
+                "2677": "counterattack"
+            },
+            "frame_elements": {
+                "15229": "assailant",
+                "15227": "victim",
+                "15230": "manner",
+                "15231": "means",
+                "15246": "path",
+                "15232": "place",
+                "15233": "purpose",
+                "15235": "time",
+                "15228": "weapon",
+                "15239": "result"
+            },
+            "lexical_units": {
+                "16736": "counter-attack",
+                "16737": "counter-attack",
+                "16738": "counter-offensive"
+            }
+        },
+        {
+            "frame_name": {
+                "257": "medical_instrument"
+            },
+            "frame_elements": {
+                "3615": "instrument",
+                "3614": "purpose"
+            },
+            "lexical_units": {
+                "4638": "bronchoscope",
+                "4659": "catheter",
+                "4639": "colonoscope",
+                "4640": "endoscope",
+                "4665": "fluoroscope",
+                "4661": "forceps",
+                "4666": "gastroscope",
+                "4667": "laparoscope",
+                "4680": "otoscope",
+                "4637": "stethoscope"
+            }
+        }
+]

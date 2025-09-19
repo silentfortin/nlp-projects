@@ -1,0 +1,114 @@
+[
+        {
+            "frame_name": {
+                "725": "expansion.n.02"
+            },
+            "lexical_units": {
+                "9101": "contract.n.02",
+                "9102": "compression.n.02",
+                "9103": "enlarge.v.03",
+                "9330": "dilate.v.01",
+                "9331": "enlargement.n.02",
+                "9332": "expand.v.02",
+                "9501": "shrink.v.04",
+                "11175": "grow.v.03",
+                "11177": "expansion.n.01",
+                "12582": "swell.n.02"
+            },
+            "frame_elements": {
+                "4756": "item.n.01",
+                "4757": "dimension.n.01",
+                "4758": "group.v.01",
+                "4762": "rate.n.01",
+                "4764": "duration.n.03",
+                "4765": "time.v.05",
+                "4774": "manner.n.01",
+                "5106": "degree.n.01",
+                "5107": "way.n.05",
+                "16147": "goal.n.01"
+            }
+        },
+        {
+            "frame_name": {
+                "1370": "extradition.n.01"
+            },
+            "lexical_units": {
+                "11784": "extradite.v.01",
+                "11785": "extradition.n.01"
+            },
+            "frame_elements": {
+                "7693": "authority.n.06",
+                "7696": "suspect.v.01",
+                "7706": "determination.n.02",
+                "7707": "explanation.n.01",
+                "7766": "manner.n.01",
+                "7767": "delineative.s.01",
+                "9627": "mean.v.03",
+                "10250": "place.n.03"
+            }
+        },
+        {
+            "frame_name": {
+                "2080": "mention.n.01"
+            },
+            "lexical_units": {
+                "15150": "mention.n.01",
+                "17826": "touch.n.01"
+            },
+            "frame_elements": {
+                "12891": "communicator.n.01",
+                "12892": "addressee.n.01",
+                "12893": "message.v.02",
+                "12895": "medium.n.01",
+                "12898": "manner.n.01",
+                "12899": "means.n.01",
+                "12930": "contented.a.01",
+                "12931": "event.n.01",
+                "15950": "place.n.03",
+                "15951": "determination.n.02"
+            }
+        },
+        {
+            "frame_name": {
+                "2677": "counterattack.n.01"
+            },
+            "lexical_units": {
+                "16736": "attack.n.01",
+                "16737": "attack.n.01",
+                "16738": "offensive.s.01"
+            },
+            "frame_elements": {
+                "15227": "victim.n.01",
+                "15228": "weapon.n.01",
+                "15229": "attacker.n.01",
+                "15230": "manner.n.01",
+                "15231": "means.n.01",
+                "15232": "topographic_point.n.01",
+                "15233": "determination.n.02",
+                "15235": "time.n.01",
+                "15239": "solution.n.02",
+                "15246": "path.n.04"
+            }
+        },
+        {
+            "frame_name": {
+                "257": "medical_instrument.n.01"
+            },
+            "lexical_units": {
+                "4637": "stethoscope.n.01",
+                "4638": "bronchoscope.n.01",
+                "4639": "colonoscope.n.01",
+                "4640": "endoscope.n.01",
+                "4659": "catheter.n.01",
+                "4661": "forceps.n.01",
+                "4665": "fluoroscope.n.01",
+                "4666": "gastroscope.n.01",
+                "4667": "laparoscope.n.01",
+                "4680": "otoscope.n.01"
+            },
+            "frame_elements": {
+                "3614": "function.n.02",
+                "3615": "instrument.n.01"
+            }
+        }
+]
