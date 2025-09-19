@@ -1,22 +1,25 @@
 # NLP Projects
 
-This repository contains a collection of Natural Language Processing (NLP) projects and experiments focused on core tasks and theoretical approaches in computational linguistics.
+This repository contains a curated collection of Natural Language Processing (NLP) projects developed for academic research and experimentation. Each subfolder documents a self-contained project, including code, data, usage instructions, and a detailed project report (PDF) where available.
 
-## Contents
+## How to Use
 
-- **NER Tagger**: Named Entity Recognition using supervised sequence labeling methods.
-- **FrameNet**: Experiments and code related to FrameNet-based semantic similarity and concept analysis.
-- **NASARI**: Semantic similarity and relatedness measures using the NASARI concept vector space.
-- **WordNet**: Tools and scripts for analyzing word sense disambiguation and concept relations exploiting WordNet lexical database.
-- **content2form**: Code for transforming and analyzing lexical or semantic content, possibly via paraphrasing or abstraction.
-- **defs**: Utilities to extract, process, and compare word/concept definitions, supporting similarity and disambiguation studies.
-- **Hanks**: Computational investigations into Hanks' theory of meaning construction and lexical analysis.
+- Browse the project folders below.
+- Each folder contains:
+    - Source code
+    - A dedicated README.md with instructions, methodology and references
+    - A project report (PDF, in Italian) with detailed analysis and results
 
-## Dependencies
+## Project Index
 
-- Python 3.8+
-- Each project folder contains its own requirements or instructions (commonly: numpy, pandas, scikit-learn, spaCy, nltk).
-- 
+- [NER Tagger](./NER%20Tagger) ([README](./NER%20Tagger/README.md), [Report PDF](./NER%20Tagger/Relazione-la-magia-NER-nascosta-Mazzei.pdf))
+- [FrameNet](./FrameNet) ([README](./FrameNet/README.md), [Report PDF](./FrameNet/Relazioni-Radicioni-Esercizio-2.pdf))
+- [NASARI](./NASARI) ([README](./NASARI/README.md), [Report PDF](./NASARI/Relazioni-Radicioni-Esercizio-3.pdf))
+- [WordNet](./WordNet) ([README](./WordNet/README.md), [Report PDF](./WordNet/Relazioni%20Radicioni%20-%20Esercizio%201.pdf))
+- [content2form](./content2form) ([README](./content2form/README.md), [Report PDF](./content2form/2-content2form.pdf))
+- [defs](./defs) ([README](./defs/README.md), [Report PDF](./defs/1-Defs.pdf))
+- [Hanks](./Hanks) ([README](./Hanks/README.md), [Report PDF](./Hanks/3-Hanks.pdf))
+
 ## References
 
 - Hanks, P. (2013). *Lexical Analysis: Norms and Exploitations*.
