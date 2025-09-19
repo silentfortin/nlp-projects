@@ -12,13 +12,17 @@ This repository contains a curated collection of Natural Language Processing (NL
 
 ## Project Index
 
-- [NER Tagger](./NER%20Tagger) ([README](./NER%20Tagger/README.md), [Report PDF](./NER%20Tagger/Relazione-la-magia-NER-nascosta-Mazzei.pdf))
-- [FrameNet](./FrameNet) ([README](./FrameNet/README.md), [Report PDF](./FrameNet/Relazioni-Radicioni-Esercizio-2.pdf))
-- [NASARI](./NASARI) ([README](./NASARI/README.md), [Report PDF](./NASARI/Relazioni-Radicioni-Esercizio-3.pdf))
-- [WordNet](./WordNet) ([README](./WordNet/README.md), [Report PDF](./WordNet/Relazioni%20Radicioni%20-%20Esercizio%201.pdf))
-- [content2form](./content2form) ([README](./content2form/README.md), [Report PDF](./content2form/2-content2form.pdf))
-- [defs](./defs) ([README](./defs/README.md), [Report PDF](./defs/1-Defs.pdf))
-- [Hanks](./Hanks) ([README](./Hanks/README.md), [Report PDF](./Hanks/3-Hanks.pdf))
+| Project        | Folder Link          | README |
+|----------------|----------------------|--------|
+| NER Tagger     | [NER Tagger](./NER%20Tagger) | [README](./NER%20Tagger/README.md) |
+| FrameNet       | [FrameNet](./FrameNet) | [README](./FrameNet/README.md) |
+| NASARI         | [NASARI](./NASARI) | [README](./NASARI/README.md) |
+| WordNet        | [WordNet](./WordNet) | [README](./WordNet/README.md) |
+| content2form   | [content2form](./content2form) | [README](./content2form/README.md) |
+| defs           | [defs](./defs) | [README](./defs/README.md) |
+| Hanks          | [Hanks](./Hanks) | [README](./Hanks/README.md) |
+
+
 
 ## References
 
