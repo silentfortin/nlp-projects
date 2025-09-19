@@ -25,8 +25,7 @@ The disambiguation process consists of four main phases:
 - `manualannotation.json`: Manual annotations of frames, elements, and synsets for each target term.
 - `usedterms.json`: List of target terms disambiguated in the project.
 - Code implementing data preparation, context generation, disambiguation, and evaluation functions (see scripts in this folder).
-- `Relazioni-Radicioni-Esercizio-2.pdf`: Full project report with methodology, implementation details, and discussion.
-
+  
 ## Requirements
 
 - Python 3.x
