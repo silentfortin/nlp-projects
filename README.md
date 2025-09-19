@@ -16,14 +16,7 @@ This repository contains a collection of Natural Language Processing (NLP) proje
 
 - Python 3.8+
 - Each project folder contains its own requirements or instructions (commonly: numpy, pandas, scikit-learn, spaCy, nltk).
-
-## Usage
-
-1. Clone this repository.
-2. Choose any folder for your project of interest.
-3. Read the `README.md` or main script inside each folder for setup and running instructions.
-4. Jupyter notebooks are available in some projects for quick prototyping and reproducibility.
-
+- 
 ## References
 
 - Hanks, P. (2013). *Lexical Analysis: Norms and Exploitations*.
